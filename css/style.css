@@ -477,7 +477,7 @@ li.dropdown.act a.w3_icons_act {
 }
 
 .banner-top2 {
-	background: url(../images/banner3.jpg) no-repeat 0px 0px;
+	background: url(../images/banner3.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -487,7 +487,7 @@ li.dropdown.act a.w3_icons_act {
 }
 
 .banner-top3 {
-	background: url(../images/banner4.png) no-repeat 0px 0px;
+	background: url(../images/banner4.webp) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -515,6 +515,7 @@ li.dropdown.act a.w3_icons_act {
     letter-spacing: 6px;
     font-weight: 600;
     text-transform: uppercase;
+  
 }
 /*-- //banner-top --*/
 
@@ -791,7 +792,7 @@ li.dropdown.act a.w3_icons_act {
 .style-image-1_info {
     padding: 7em 5em;
     height: 321px;
-    background: #fb383b;
+    background: #000000e1;
 }
 .style-grid-2-text_info h3 {
     font-size: 30px;
@@ -841,13 +842,13 @@ li.dropdown.act a.w3_icons_act {
 
 .grid_sec_info {
     padding: 7em 5em;
-    background: #fb383b;
+    background: #000000e1;
 }
 .grid_sec_info.last {
-    background: #0a0a0a;
+    background: #000000e1;
 }
 .shop-button.two a {
-    background: #fb383b;
+    background: #000000;
 }
 button.top_shoe_cart {
     font-size: 1.2em;
