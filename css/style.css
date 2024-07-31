@@ -484,6 +484,7 @@ li.dropdown.act a.w3_icons_act {
 	-o-background-size: cover;
 	-moz-background-size: cover;
 	min-height:750px;
+    
 }
 
 .banner-top3 {
@@ -836,7 +837,7 @@ li.dropdown.act a.w3_icons_act {
 	width:100%;
 }
 .style-grids_main {
-    width: 80%;
+    width: 100%;
 }
 /*-- //grids_bottom_sec --*/
 
@@ -926,12 +927,12 @@ button.top_shoe_cart {
 
 }
 .mid_slider_w3lsagile{
-    background: #fb383b;
+    background: #ffffff;
 }
 .mid_slider_text h5 {
     font-size: 23px;
     margin-top: 121px;
-    color: #fff;
+    color: #000000;
     letter-spacing: 1px;
     font-weight: 700;
     text-align: left;
@@ -1642,7 +1643,7 @@ p.head_para {
         height: 503px;
     }
     .style-grids_main {
-        width: 90%;
+        width: 100%;
     }
     .newsletter_w3layouts_agile {
         padding: 2em 1em;
